@@ -1,0 +1,7 @@
+body {background-color: lightblue; font-family: Arial, Helvetica, sans-serif;}
+
+.class1 {text-align: center; border-style: dashed; border-color:black; padding: 0px 15px 10px 15px; margin: 10px}
+
+.class2 {Float:left; Width: 500px; Height: 300px; border-style: solid; border-color: blue ; margin-left: 50px}
+
+#class3 {Float:right; Width: 500px; Height: 300px; border-style: solid; border-color:red ; margin-right: 50px ; text-align: right;}
